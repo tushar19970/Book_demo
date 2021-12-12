@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+  <form action="/searchlan" method="post">
+    <input type="text" name = "search" placeholder = "Search..."/>
+    <button type="submit"  >Search</button>
+  </form>
+  <br>
+<h2>HTML Table</h2>
+
+
+<table>
+  <tr>
+    <th> id  </th>
+    <th> Book name  </th>
+    <th> Language  </th>
+    <th> Writter  </th>
+    <th> Released year </th>
+  </tr>
+
+  <%for (let i of data){%>
+    <!-- if (i.Language=="name") -->
+    <tr>
+    <td><%=i.id%></td>
+    <td><%=i.Book_name%></td>
+    <td><%=i.Language%></td>
+    <td><%=i.Writter%></td>
+    <td><%=i.Released_year%></td>
+  </tr>
+<%}%>
+</table>
+
+
+<style>
+  h2{
+    text-align: center;
+  }
+  th,td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px;
+  }
+  tr:hover{
+    background-color:black;
+    color: aliceblue;
+  }
+  table{
+    margin: auto;
+    /* border: 1px solid; */
+
+  }
+  form{
+    margin-top: 2%;
+    text-align: center;
+  }
+  
+</style>
+</body>
+</html>
+

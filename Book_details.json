@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "Book_name": "Bachelor",
+        "Language": "English",
+        "Writter": "Victorien",
+        "Released_year": "19th Century"
+    },
+    {
+        "id": 2,
+        "Book_name": "Tushar",
+        "Language": "Hindi English",
+        "Writter": "Victorien",
+        "Released_year": "20th Century"
+    },
+    {
+        "id": 3,
+        "Language": "Hindi",
+        "Writter": "Victorien",
+        "Released_year": "20th Century"
+    },
+    {
+        "id": 3,
+        "Language": "Hindi",
+        "Writter": "Victorien",
+        "Released_year": "20th Century"
+    },
+    {
+        "id": 4,
+        "Language": "Hindi",
+        "Writter": "Victorien",
+        "Released_year": "20th Century"
+    },
+    {
+        "id": 4,
+        "Book_name": "Tushar",
+        "Language": "Hindi",
+        "Writter": "Victorien",
+        "Released_year": "20th Century"
+    },
+    {
+        "id": 5,
+        "Book_name": "Gupta",
+        "Language": "Hindi",
+        "Writter": "Victorien",
+        "Released_year": "20th Century"
+    },
+    {
+        "id": "3",
+        "Book_name": "Navgurukul",
+        "Language": "English",
+        "Writter": "Abhishek Gupta",
+        "Released_year": "2017"
+    },
+    {
+        "id": "6",
+        "Book_name": "shubhadip",
+        "Language": "Tamil",
+        "Writter": "name",
+        "Released_year": "2020"
+    },
+    {
+        "id": "7",
+        "Book_name": "Ankit",
+        "Language": "English",
+        "Writter": "Abhishek Gupta",
+        "Released_year": "2021"
+    },
+    {
+        "id": "8",
+        "Book_name": "The jarwin Awards",
+        "Language": "English",
+        "Writter": "Rahul",
+        "Released_year": "2021"
+    },
+    {
+        "id": "1",
+        "Book_name": "Navgurukul",
+        "Language": "Hindi",
+        "Writter": "Tushar",
+        "Released_year": "2018"
+    }
+]
